@@ -1,0 +1,13 @@
+.image{
+    float: left;
+    width: 40%;
+    padding: 50px;
+}
+
+.txt{
+    float: left;
+    padding: 100px;
+    margin-left: 50px;
+    width: 400px;
+    margin-top: 50px;
+}

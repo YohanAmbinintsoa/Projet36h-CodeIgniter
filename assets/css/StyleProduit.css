@@ -1,0 +1,19 @@
+.objet{
+    background-color: #58629b;
+    float: left;
+    width: 30%;
+    margin: 22px;
+}
+
+.im img{
+    width: 100%;
+    height: 200px;
+}
+
+.det{
+    padding: 15px;
+}
+
+a{
+    color: black;
+}

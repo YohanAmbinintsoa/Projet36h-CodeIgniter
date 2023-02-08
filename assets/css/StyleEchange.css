@@ -1,0 +1,39 @@
+.left{
+    float: left;
+    width: 37%;
+    text-align: center;
+    padding: 20px;
+    margin-top: 50px;
+}
+
+.transaction{
+    float: left;
+    width: 17%;
+    text-align: center;
+    padding: 20px;
+    margin-top: 100px;
+}
+
+button{
+    margin-bottom: 40px;
+    width: 140px;
+    height: 40px;
+    background: linear-gradient(to right,lightblue ,grey);
+    cursor: pointer;
+    border-radius: 10px;
+    outline: none;
+    border: 1px solid;
+    color: white;
+}
+
+.right{
+    float: left;
+    width: 37%;
+    text-align: center;
+    padding: 20px;
+    margin-top: 50px;
+}
+
+img{
+    width: 80%;
+}
